@@ -1,0 +1,5 @@
+{
+  "name": "Math SAT",
+  "description": "A high-fidelity Digital SAT interface featuring a two-module structure, countdown timer, Desmos calculator integration, and a detailed results dashboard with domain breakdown.",
+  "requestFramePermissions": []
+}
